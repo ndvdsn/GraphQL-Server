@@ -1,7 +1,7 @@
 {
   "name": "customer_base",
   "version": "1.0.0",
-  "description": "simple GraphQL server",
+  "description": "Planet Heat GraphQL server",
   "main": "server.js",
   "scripts": {
     "dev:server": "nodemon server.js",
